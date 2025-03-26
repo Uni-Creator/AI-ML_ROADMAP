@@ -84,7 +84,7 @@ Deep Learning can be pursued through two main paths:
 
 #### In-Depth Study:
 - **Book:**  
-  *Understanding Deep Learning* by JD Prince offers a thorough theoretical perspective.
+  *Understanding Deep Learning* by JD Prince offers a thorough theoretical perspective. [Github-repo](https://github.com/udlbook/udlbook)
 - **Advanced Topics:**  
   Supplement your learning with resources covering RNNs, LSTMs, and transformers.
 
