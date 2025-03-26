@@ -32,7 +32,7 @@ Welcome to your comprehensive guide for diving into the world of Artificial Inte
 
 ### Recommended Resources:
 - **"Why Machines Learn" by Anil Ananthaswamy:**  
-  A great conceptual overview available digitally on Anna's archive. ![Link](https://annas-archive.org/slow_download/39fe68018da1f63a97c667b804b7a38c/0/0)
+  A great conceptual overview available digitally on Anna's archive. [Download](https://annas-archive.org/slow_download/39fe68018da1f63a97c667b804b7a38c/0/0)
 - **Additional Resources:**  
   Explore Khan Academy, MIT OpenCourseWare, or Gilbert Strang’s lectures on linear algebra.
 - **Practice:**  
